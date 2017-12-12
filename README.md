@@ -1,7 +1,4 @@
 # arm-sima
-The autoqueue client MPD-Sima. Using Debian with ARM. To use with MPD
-
-# alpine-sima
 
 This is an image for the interactive autoqueue client [MPD-sima](http://kaliko.me/code/mpd-sima/) using Debian. A [Resin.os Raspbian image](https://hub.docker.com/r/resin/rpi-raspbian/) is used as a base image for compatibility with IoT devices, but it works well anywhere. This is an add-on for MPD.
 
