@@ -1,5 +1,5 @@
 FROM resin/raspberrypi3-debian:jessie
-MAINTAINER @jstnn
+LABEL maintainer="n.justiniano@gmail.com"
 
 ENV SIMA_VERSION 0.14.4
 
